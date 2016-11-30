@@ -1,0 +1,20 @@
+.message {
+  min-height: 30px;
+  box-sizing: border-box;
+  border: 1px solid #aaa;
+  padding: 10px;
+  color: pink;
+}
+
+.master-chief {
+    font-family: 'Bungee', cursive;
+}
+        
+.domo-arigato {
+    font-family: 'Roboto', sans-serif;
+}
+
+.not-the-droids {
+    font-family: 'Droid Sans', sans-serif;
+}
+/*# sourceMappingURL=main.css.map*/
